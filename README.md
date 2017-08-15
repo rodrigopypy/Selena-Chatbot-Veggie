@@ -1,2 +1,13 @@
-# Selena-Chatbot-Veggie
-Created for toolchain: https://console-regional.ng.bluemix.net/devops/toolchains/cf9112f5-b0f2-4dcf-a355-7a948c3f78fe
+# Node.js Hello World Sample
+
+This application demonstrates a simple, reusable Node.js web application based on the Express framework.
+
+## Run the app locally
+
+1. [Install Node.js][]
+1. cd into this project's root directory
+1. Run `npm install` to install the app's dependencies
+1. Run `npm start` to start the app
+1. Access the running app in a browser at <http://localhost:6001>
+
+[Install Node.js]: https://nodejs.org/en/download/
